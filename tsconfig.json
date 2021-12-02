@@ -12,7 +12,6 @@
       "@shared/*": ["shared/*"],
       "@errors/*": ["errors/*"],
       "@utils/*": ["utils/*"],
-      "@middlewares/*": ["middlewares/*"]
     },
     "resolveJsonModule": true,
 
